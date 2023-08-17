@@ -18,13 +18,13 @@ export const Proyecto = () => {
     
        <div className='page page-work'>
          <div className='mask'>
-          <img src={require(`/imagenes/${trabajos.id}.png`).default} alt={trabajos.nombre} />
+          <img src={`/src/Components/imagenes/R1.PNG`} alt={trabajos.nombre} />
             </div>
         <h1 className='heading'>{proyecto.nombre}</h1>
         <p>{proyecto.tecnologias}</p>
         <p>{proyecto.descripcion}</p>
         <a href={"https://"+proyecto.url} target='_blank'>Ir a proyecto</a>    
-        
+        <p>parrafo extra</p>
        </div>
    
   )
