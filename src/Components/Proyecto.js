@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { trabajos } from '../Date/trabajos';
-import imagenes from "../Components/imagenes"
+import imagenes from "/Paginau/src/Components"
 
 export const Proyecto = () => {
    
