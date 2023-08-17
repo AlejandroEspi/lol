@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lol/static/css/main.31e7436c.css",
-    "main.js": "/lol/static/js/main.a553faf8.js",
+    "main.js": "/lol/static/js/main.79978f60.js",
     "static/media/Punto_1.PNG": "/lol/static/media/Punto_1.216198b4e78ed761b6f7.PNG",
     "static/media/R1.PNG": "/lol/static/media/R1.66e24f1a95e8b734b974.PNG",
     "index.html": "/lol/index.html",
     "main.31e7436c.css.map": "/lol/static/css/main.31e7436c.css.map",
-    "main.a553faf8.js.map": "/lol/static/js/main.a553faf8.js.map"
+    "main.79978f60.js.map": "/lol/static/js/main.79978f60.js.map"
   },
   "entrypoints": [
     "static/css/main.31e7436c.css",
-    "static/js/main.a553faf8.js"
+    "static/js/main.79978f60.js"
   ]
 }
