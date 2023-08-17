@@ -1,7 +1,7 @@
 import React from 'react'
 import { trabajos } from '../Date/trabajos'
 import { Link } from 'react-router-dom'
-import imagen from '../../public/imagenes/imagen'
+import imagen from '../imagenes/imagen'
 
 export const ListadoTrabajo = ({limite}) => {
   return (
