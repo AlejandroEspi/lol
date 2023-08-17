@@ -3,7 +3,8 @@ export const trabajos = [
         'id':'Punto_1',
         'nombre': 'Punto 1',
         'tecnologias': 'Lenguaje C',
-        'categoria': 'Programacion c'
+        'categoria': 'Programacion c',
+        'img':'/imagenes/Punto_1.png'
         
      },
      {
