@@ -1,6 +1,7 @@
 import React from 'react'
 import { trabajos } from '../Date/trabajos'
 import { Link } from 'react-router-dom'
+import imagen from '../../public/imagenes/imagen'
 
 export const ListadoTrabajo = ({limite}) => {
   return (
@@ -11,7 +12,7 @@ export const ListadoTrabajo = ({limite}) => {
          return(
           <article key={trabajo.id} className='work-item'>
             <div className='mask'>
-              <img src={trabajo.img}/>
+              <img src={imagen.R1}/>
             </div>
             <span>{trabajo.categoria}</span>
             <h2><Link to={"/proyecto/"+trabajo.id}>{trabajo.nombre}</Link></h2>
