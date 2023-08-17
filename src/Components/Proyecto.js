@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { trabajos } from '../Date/trabajos';
+import imagenes from "../Components/imagenes"
 
 export const Proyecto = () => {
    
@@ -18,7 +19,7 @@ export const Proyecto = () => {
     
        <div className='page page-work'>
          <div className='mask'>
-         <img src={"/imagenes/"+proyecto.id+".png"} alt="imagen de puntos o respuesta"/>
+         <img src={imagenes} alt="imagen de puntos o respuesta"/>
             </div>
         <h1 className='heading'>{proyecto.nombre}</h1>
         <p>{proyecto.tecnologias}</p>
