@@ -1,15 +1,33 @@
 {
   "files": {
     "main.css": "/lol/static/css/main.31e7436c.css",
-    "main.js": "/lol/static/js/main.79978f60.js",
+    "main.js": "/lol/static/js/main.113993cd.js",
     "static/media/Punto_1.PNG": "/lol/static/media/Punto_1.216198b4e78ed761b6f7.PNG",
+    "static/media/P2.PNG": "/lol/static/media/P2.cc9c6e8f3a81a1a0a012.PNG",
+    "static/media/R3.PNG": "/lol/static/media/R3.6309e8dc321f73ce6bce.PNG",
+    "static/media/R6.PNG": "/lol/static/media/R6.8ae0e3515369aa1d07d9.PNG",
+    "static/media/R8.PNG": "/lol/static/media/R8.54d388446b78dfc96a15.PNG",
     "static/media/R1.PNG": "/lol/static/media/R1.66e24f1a95e8b734b974.PNG",
+    "static/media/R2.PNG": "/lol/static/media/R2.07c961a4a9fa20ba1834.PNG",
+    "static/media/P8.PNG": "/lol/static/media/P8.9db0d2ac935d13fcd46c.PNG",
+    "static/media/R10.PNG": "/lol/static/media/R10.cfdf268e762af6d87e28.PNG",
+    "static/media/P3.PNG": "/lol/static/media/P3.9a12bc1aa2016e1e022a.PNG",
+    "static/media/P4.PNG": "/lol/static/media/P4.af53cffa2d762c80183e.PNG",
+    "static/media/R9.PNG": "/lol/static/media/R9.69b59901c0372e745f10.PNG",
+    "static/media/P6.PNG": "/lol/static/media/P6.37c083e25a85eeeb0405.PNG",
+    "static/media/R7.PNG": "/lol/static/media/R7.0f84591490d7cfc805c0.PNG",
+    "static/media/R5.PNG": "/lol/static/media/R5.9c1f5ae83903a211f869.PNG",
+    "static/media/P9.PNG": "/lol/static/media/P9.4857a75eb82b54bcefe0.PNG",
+    "static/media/P7.PNG": "/lol/static/media/P7.8daa699d8b1121dd9a97.PNG",
+    "static/media/P5.PNG": "/lol/static/media/P5.e5123c5385f39b0ec1aa.PNG",
+    "static/media/R4.PNG": "/lol/static/media/R4.85022cfe8c8a4250d318.PNG",
+    "static/media/P10.PNG": "/lol/static/media/P10.39f433ceae8c4f89c53e.PNG",
     "index.html": "/lol/index.html",
     "main.31e7436c.css.map": "/lol/static/css/main.31e7436c.css.map",
-    "main.79978f60.js.map": "/lol/static/js/main.79978f60.js.map"
+    "main.113993cd.js.map": "/lol/static/js/main.113993cd.js.map"
   },
   "entrypoints": [
     "static/css/main.31e7436c.css",
-    "static/js/main.79978f60.js"
+    "static/js/main.113993cd.js"
   ]
 }
