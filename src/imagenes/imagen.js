@@ -18,6 +18,14 @@ import Punto9 from '../imagenes/P9.PNG'
 import R9 from '../imagenes/R9.PNG';
 import Punto10 from '../imagenes/P10.PNG'
 import R10 from '../imagenes/R10.PNG';
+import R11 from '../imagenes/R11.PNG';
+import R12 from '../imagenes/R12.PNG';
+import R13 from '../imagenes/R13.PNG';
+import R14 from '../imagenes/R14.PNG';
+import R15 from '../imagenes/R15.PNG';
+import R16 from '../imagenes/R16.PNG';
+import R17 from '../imagenes/r17.PNG';
+import R18 from '../imagenes/R18.PNG';
 
 
 export default[
@@ -40,5 +48,14 @@ export default[
   Punto9,
   R9,
   Punto10,
-  R10
+  R10,
+  R11,
+  R12,
+  R13,
+  R14,
+  R15,
+  R16,
+  R17,
+  R18
+
 ]

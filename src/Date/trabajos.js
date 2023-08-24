@@ -143,8 +143,69 @@ export const trabajos = [
       'tecnologias': 'Lenguaje C',
       'categoria': 'Programacion c',
       'img': 19
-     }
+     },
+     {
+      'id':'R11',
+      'nombre': 'Two sum',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:77ms, Memoria:6.41mb',
+      'img': 20
+     },
+     {
+      'id':'R12',
+      'nombre': 'Two sum',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:77ms, Memoria:6.29 mb',
+      'img': 21
+     },
+     {
+      'id':'R13',
+      'nombre': 'Remove Duplicates from Sorted Array',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:10ms, Memoria:7.40 mb',
+      'img': 22
+     },
+     {
+      'id':'R14',
+      'nombre': 'Remove Duplicates from Sorted Array',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:6ms, Memoria:7.36mb',
+      'img': 23
+     },
+     {
+      'id':'R15',
+      'nombre': 'Remove Element',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:4 ms, Memoria:6.29mb',
+      'img': 24
+     },
+     {
+      'id':'R16',
+      'nombre': 'Remove Element',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:4 ms, Memoria:5.91mb',
+      'img': 25
+     },
+     {
+      'id':'R17',
+      'nombre': 'Median of Two Sorted Arrays',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:13 ms, Memoria:7.11mb',
+      'img': 26
+     },
+     {
+      'id':'R18',
+      'nombre': 'Median of Two Sorted Arrays',
+      'tecnologias': 'Lenguaje C',
+      'categoria': 'Ejecucion:0ms, Memoria:7.05mb',
+      'img': 27
+     },
+     
 
+     
+     
+     
+     
 
 
 ]
