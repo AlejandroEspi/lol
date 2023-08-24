@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lol/static/css/main.31e7436c.css",
-    "main.js": "/lol/static/js/main.a89f1f0c.js",
+    "main.js": "/lol/static/js/main.d899900e.js",
     "static/media/Punto_1.PNG": "/lol/static/media/Punto_1.216198b4e78ed761b6f7.PNG",
     "static/media/P2.PNG": "/lol/static/media/P2.cc9c6e8f3a81a1a0a012.PNG",
     "static/media/R3.PNG": "/lol/static/media/R3.6309e8dc321f73ce6bce.PNG",
@@ -12,24 +12,30 @@
     "static/media/P8.PNG": "/lol/static/media/P8.9db0d2ac935d13fcd46c.PNG",
     "static/media/R10.PNG": "/lol/static/media/R10.cfdf268e762af6d87e28.PNG",
     "static/media/P3.PNG": "/lol/static/media/P3.9a12bc1aa2016e1e022a.PNG",
+    "static/media/r17.PNG": "/lol/static/media/r17.a69a52facefca23872c0.PNG",
+    "static/media/R18.PNG": "/lol/static/media/R18.12fb7880a7bc40e8be5b.PNG",
     "static/media/P4.PNG": "/lol/static/media/P4.af53cffa2d762c80183e.PNG",
     "static/media/R9.PNG": "/lol/static/media/R9.69b59901c0372e745f10.PNG",
     "static/media/P6.PNG": "/lol/static/media/P6.37c083e25a85eeeb0405.PNG",
     "static/media/R7.PNG": "/lol/static/media/R7.0f84591490d7cfc805c0.PNG",
+    "static/media/R13.PNG": "/lol/static/media/R13.a01d15b3d5a055b6f380.PNG",
     "static/media/R5.PNG": "/lol/static/media/R5.9c1f5ae83903a211f869.PNG",
     "static/media/P9.PNG": "/lol/static/media/P9.4857a75eb82b54bcefe0.PNG",
     "static/media/P7.PNG": "/lol/static/media/P7.8daa699d8b1121dd9a97.PNG",
+    "static/media/R16.PNG": "/lol/static/media/R16.1ae8acbecc945be46758.PNG",
     "static/media/P5.PNG": "/lol/static/media/P5.e5123c5385f39b0ec1aa.PNG",
     "static/media/R11.PNG": "/lol/static/media/R11.951cbbc79db1d66102b5.PNG",
     "static/media/R12.PNG": "/lol/static/media/R12.e72c4214d124d5080e2c.PNG",
     "static/media/R4.PNG": "/lol/static/media/R4.85022cfe8c8a4250d318.PNG",
     "static/media/P10.PNG": "/lol/static/media/P10.39f433ceae8c4f89c53e.PNG",
+    "static/media/R14.PNG": "/lol/static/media/R14.0bfe10bf526681633b5c.PNG",
+    "static/media/R15.PNG": "/lol/static/media/R15.1d75824fade56300d1e6.PNG",
     "index.html": "/lol/index.html",
     "main.31e7436c.css.map": "/lol/static/css/main.31e7436c.css.map",
-    "main.a89f1f0c.js.map": "/lol/static/js/main.a89f1f0c.js.map"
+    "main.d899900e.js.map": "/lol/static/js/main.d899900e.js.map"
   },
   "entrypoints": [
     "static/css/main.31e7436c.css",
-    "static/js/main.a89f1f0c.js"
+    "static/js/main.d899900e.js"
   ]
 }
